@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><b>Hi, </b> </b><picture><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Man Technologist" width="25" height="25" /></picture> <b>I'm Angel Cruz</b></summary>
+    <summary><h1 style="display: inline-block"><b>Hi, </b> </b> <b>I'm Angel Cruz</b></summary>
   </ul>
 </div>
 
